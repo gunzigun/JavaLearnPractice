@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/chat/client/ChatClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/chat/client/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/chat/client/ClientConnection.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/chat/server/Server.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/chat/server/ServerConnection.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/chat/server/ServerMessageThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/chat/util/XMLUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/classloader/MyClassLoader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/classloader/Test7.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/decorator/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/decorator/ConcreteComponent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/decorator/ConcreteDecorator1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/decorator/ConcreteDecorator2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/dynamicproxy/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/dynamicproxy/DynamicSubject.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/exception/ExceptionTest4.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/exception/ExceptionTest5.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/io/Fab.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/io/Test1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/io2/DataStream1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/io2/ListAllTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/io2/RandomAccessFile1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/jdk5/BoxTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/jdk5/EnumMapDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/jdk5/EnumTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/jdk5/ForTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/network/MainServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/network/UrlConnection4.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/proxy/ProxySubject.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/reflect/ReflectTester.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/reflect/TestPrivate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/reflect/TestPrivate2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/shengsiyuan/thread/FetchMoney.java" charset="GBK" />
+  </component>
+</project>
